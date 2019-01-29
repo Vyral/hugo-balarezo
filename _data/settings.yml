@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Real Estate Video Blog with Hugo & Sheri's Homes and Lifestyle
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,13 +11,13 @@ custom_links_new_tab:
     url:
 
 client:
-  name: Hugo and Sheri Balarezo
+  name: Hugo Balarezo and Sheri Drake
   title:
   license_number:
   about_markdown: |
 
-  brand: The Hugo and Sheri Team
-  brokerage: Summit Realty Partners
+  brand: Hugo & Sheri's Homes and Lifestyle
+  brokerage: 
   market: Southern California
   address: 11810 Pierce 200 Riverside CA 92505
   phone: 951-643-7410
@@ -86,7 +86,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Hugo & Sheri's Homes and Lifestyle
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
