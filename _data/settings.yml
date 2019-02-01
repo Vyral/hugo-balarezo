@@ -4,11 +4,7 @@ description: Our mission at -- CLIENT BRAND -- is to be your best resource for -
 show_custom_links: false		
 custom_links:		
   - title:		
-    url:		
-show_custom_links_new_tab: false		
-custom_links_new_tab:		
-  - title:		
-    url:		
+    url:
 
   client:		
   name: Hugo Balarezo and Sheri Drake		
