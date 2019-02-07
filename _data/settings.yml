@@ -19,7 +19,7 @@ client:
   brand: Hugo & Sheri's Homes and Lifestyle
   brokerage:
   market: Southern California
-  address: 11810 Pierce 200 <br>Riverside CA 92505
+  address: '11810 Pierce 200 <br>Riverside, CA 92505'
   phone: (951) 643-7410
   phone_type:
   phone2:
