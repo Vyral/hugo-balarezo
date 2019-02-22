@@ -20,7 +20,7 @@ youtube_code: 5XVur0Zvx4w
 
 {% include youtube.html %}
 
-In today’s message, I’d like to talk about how changing markets can have varying effects on both buyers and sellers.
+<center>In today’s message, I’d like to talk about how changing markets can have varying effects on both buyers and sellers.</center>
 
 The last time the market peaked in 2005 and 2006, we started to notice articles that were coming out and talking about the market collapsing. In the beginning, we brushed them off, but then the articles kept coming.&nbsp;
 
