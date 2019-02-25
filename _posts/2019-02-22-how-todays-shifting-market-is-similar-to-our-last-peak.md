@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/feb-2-shifting-market-np.jpg
-youtube_code: 5XVur0Zvx4w
+youtube_code: rkRKgSVnJpM
 ---
 
 {% include youtube.html %}
