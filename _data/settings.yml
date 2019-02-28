@@ -15,11 +15,28 @@ client:
   name: Hugo Balarezo and Sheri Drake
   title:
   license_number:
-  about_markdown: |
-    Mark began his career in the mortgage industry in 1995 in Hollywood, Florida. Before founding Pacific Home Mortgage Funding, Inc. Mark was a part of several real estate and financial companies, including Countrywide Financial, Archon Group, 2020 Mortgage, and Preferred Mortgage Solutions.
+  about_markdown: >-
+    Hugo Balarezo started selling real estate in 1985. He’s helped nearly 4,900
+    families buy or sell homes during his career. The key to his success has
+    been a lot of hard work, persistence to stay ahead of the market, and an
+    incredible staff that is dedicated to getting clients results. Our area of
+    specialty is selling homes other agents have not been able to sell. We take
+    a surgical approach to selling the home by asking the right questions,
+    analyzing the answers, and developing a custom solution to get your home
+    sold fast and for top dollar. Hugo is considered the Surgeon of Real Estate.
+    He knows what to ask, what to look for, and how to fix it
 
 
-    Sheri Drake, Broker/Owner of Elite Group Realty and Elite Property Manager, has worked in the Inland Empire Real Estate Market for over 30 years. Having grown up in the Riverside area, Sheri has seen the area change from a small home town to a growing suburban community. She has effectively worked every aspect of the industry representing sellers, buyers, investors and banks and starting a busy property management business. Through years of investing in her own properties and flipping houses she has developed a niche market by advising clients on what improvements will give them the best bang for their buck, helping them choose updated materials on a budget and helping them do light staging to help the home show well when selling or renting.
+    Sheri Drake, Broker/Owner of Elite Group Realty and Elite Property Manager,
+    has worked in the Inland Empire Real Estate Market for over 30 years. Having
+    grown up in the Riverside area, Sheri has seen the area change from a small
+    home town to a growing suburban community. She has effectively worked every
+    aspect of the industry representing sellers, buyers, investors and banks and
+    starting a busy property management business. Through years of investing in
+    her own properties and flipping houses she has developed a niche market by
+    advising clients on what improvements will give them the best bang for their
+    buck, helping them choose updated materials on a budget and helping them do
+    light staging to help the home show well when selling or renting.
   brand: Hugo & Sheri's Homes and Lifestyle
   brokerage:
   market: Southern California
@@ -64,8 +81,9 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/hugo.toprealtor/'
-  linkedin_url: 
-  youtube_url: https://www.youtube.com/channel/UCUAViaFXvrBWCUTWG2vd-Kg?disable_polymer=true
+  linkedin_url:
+  youtube_url: >-
+    https://www.youtube.com/channel/UCUAViaFXvrBWCUTWG2vd-Kg?disable_polymer=true
   twitter_url:
   instagram_url:
   pinterest_url:
