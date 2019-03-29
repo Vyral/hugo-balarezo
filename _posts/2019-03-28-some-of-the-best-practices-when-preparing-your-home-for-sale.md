@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are Some of the Best Practices When Preparing Your Home for Sale?
+title: Some of the Best Practices When Preparing Your Home for Sale
 date: 2019-03-28 00:00:00
 tags:
   - Real Estate
@@ -21,7 +21,7 @@ youtube_code: lx-bZtKtjMY
 
 <center><em>Preparing a home for sale doesn&rsquo;t have to include expensive repairs or improvements. Here are our best budget-friendly tips.</em></center>
 
-&nbsp;
+ 
 
 Today we’re going to give you some tips on how to get a home ready for showings on a budget. Sheri specializes in remodeling properties and is very creative about what she can do for little money. Here are a few things that she recommends.
 
@@ -33,7 +33,7 @@ As for the interior of the home, we all live a little cluttered. Go through ever
 
 {% include pullquote.html %}
 
-The act of “defunky-ing” your house is another cheap, easy way to make it look better. If you have anything out of the ordinary, from an extension cord strewn about to any kind of “rigging,”&nbsp;**you don’t want your home to look like it’s run-down or will require a lot of work**.
+The act of “defunky-ing” your house is another cheap, easy way to make it look better. If you have anything out of the ordinary, from an extension cord strewn about to any kind of “rigging,” **you don’t want your home to look like it’s run-down or will require a lot of work**.
 
 Next, we suggest a deep clean of your home from top to bottom. Here’s a cleaning checklist that we give to our clients to guide them in their cleaning efforts. Buyers equate dirt and dirtiness with a home that’s in bad condition, and that’s not the kind of home they want to buy.
 
