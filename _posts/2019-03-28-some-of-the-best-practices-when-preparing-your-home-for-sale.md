@@ -35,6 +35,6 @@ As for the interior of the home, we all live a little cluttered. Go through ever
 
 The act of “defunky-ing” your house is another cheap, easy way to make it look better. If you have anything out of the ordinary, from an extension cord strewn about to any kind of “rigging,”&nbsp;**you don’t want your home to look like it’s run-down or will require a lot of work**.
 
-Next, we suggest a deep clean of your home from top to bottom. [Here’s a cleaning checklist](https://s3.amazonaws.com/vyralmarketing/Hugo+Balarezo/Assets/Elite+Group+Cleaning+Checklist.pdf){: target="_blank"} that we give to our clients to guide them in their cleaning efforts. Buyers equate dirt and dirtiness with a home that’s in bad condition, and that’s not the kind of home they want to buy.
+Next, we suggest a deep clean of your home from top to bottom. **[Here’s a cleaning checklist](https://s3.amazonaws.com/vyralmarketing/Hugo+Balarezo/Assets/Elite+Group+Cleaning+Checklist.pdf){: target="_blank"}** that we give to our clients to guide them in their cleaning efforts. Buyers equate dirt and dirtiness with a home that’s in bad condition, and that’s not the kind of home they want to buy.
 
 We offer free in-home consultations and would be glad to discuss what you can do to get your home in the best possible shape before you sell. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
