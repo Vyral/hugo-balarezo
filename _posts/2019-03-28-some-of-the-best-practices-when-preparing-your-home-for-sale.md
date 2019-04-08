@@ -38,3 +38,9 @@ The act of “defunky-ing” your house is another cheap, easy way to make it lo
 Next, we suggest a deep clean of your home from top to bottom. **[Here’s a cleaning checklist](https://drive.google.com/file/d/1qXi4tkghORTL3PibHy_EQRcHdO0HdtdZ/view?usp=sharing){: target="_blank"}** that we give to our clients to guide them in their cleaning efforts. Buyers equate dirt and dirtiness with a home that’s in bad condition, and that’s not the kind of home they want to buy.
 
 We offer free in-home consultations and would be glad to discuss what you can do to get your home in the best possible shape before you sell. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
+
+Please fill up your information Here
+
+&nbsp;
+
+&nbsp;
