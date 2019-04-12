@@ -23,9 +23,9 @@ youtube_code: lx-bZtKtjMY
 
 <center>&nbsp;</center>
 
-> <center>Having a home that shines, will help you make THOUSANDS MORE when SELLING YOUR HOME</center>
+> <center>Having a home that shines, will help you make <b>thousands more</b>&nbsp;when <strong>selling your home.</strong></center>
 >
-> <center><a href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/">&lt;&lt; Click here and get the ULTIMATE LOW BUDGET HOME PREP CHECKLIST &gt;&gt;</a></center>
+> <center><a href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/">&lt;&lt; Click here and get the <strong>ULTIMATE LOW BUDGET HOME PREP CHECKLIST</strong> &gt;&gt;</a></center>
 
 <center>&nbsp;</center>
 
