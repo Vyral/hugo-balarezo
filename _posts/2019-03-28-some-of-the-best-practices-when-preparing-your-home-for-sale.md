@@ -21,6 +21,8 @@ youtube_code: lx-bZtKtjMY
 
 <center><em>Preparing a home for sale doesn&rsquo;t have to include expensive repairs or improvements. Here are our best budget-friendly tips.</em></center>
 
+&nbsp;
+
 Today we’re going to give you some tips on how to get a home ready for showings on a budget. Sheri specializes in remodeling properties and is very creative about what she can do for little money. Here are a few things that she recommends.
 
 **First impressions are important, and a buyer’s first impression of your home is the front of it**. We suggest getting that area cleared up, cleaned, and organized. It costs absolutely nothing but can make a huge difference.
