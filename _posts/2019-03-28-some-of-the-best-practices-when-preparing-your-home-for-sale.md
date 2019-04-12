@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Preparing a home for sale doesn’t have to include expensive repairs or
   improvements. Here are our best budget-friendly tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Hugo+Balarezo/Videos/Hugo+%26+Sheri-+Homes+and+Lifestyles+-+Some+of+the+Best+Practices+When+Preparing+Your+Home+for+Sale.mp4
 pullquote: Anything out of the ordinary can look bad to potential buyers.
 enclosure_type: video/mp4
 enclosure_time:
