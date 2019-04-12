@@ -27,7 +27,7 @@ youtube_code: lx-bZtKtjMY
 
 <center>&nbsp;</center>
 
-<center>&lt;&lt; Click here and get the <a href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/"><strong>ULTIMATE LOW BUDGET HOME PREP CHECKLIST</strong></a> &gt;&gt;</center>
+<center>&lt;&lt; Click here and get the <a target="_blank" href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/"><strong>ULTIMATE LOW BUDGET HOME PREP CHECKLIST</strong></a> &gt;&gt;</center>
 
 <center>&nbsp;</center>
 
