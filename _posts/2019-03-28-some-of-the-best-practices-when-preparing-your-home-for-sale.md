@@ -23,9 +23,11 @@ youtube_code: lx-bZtKtjMY
 
 <center>&nbsp;</center>
 
-> <center>Having a home that shines, will help you make <b>thousands more</b>&nbsp;when <strong>selling your home.</strong></center>
->
-> <center><a href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/">&lt;&lt; Click here and get the <strong>ULTIMATE LOW BUDGET HOME PREP CHECKLIST</strong> &gt;&gt;</a></center>
+<center><em><strong>&ldquo;</strong><strong></strong>Having a home that shines, will help you make <strong>thousands more</strong>&nbsp;when <strong>selling your home</strong>.<strong>&rdquo;</strong></em></center>
+
+<center>&nbsp;</center>
+
+<center>&lt;&lt; Click here and get the <a href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/"><strong>ULTIMATE LOW BUDGET HOME PREP CHECKLIST</strong></a> &gt;&gt;</center>
 
 <center>&nbsp;</center>
 
@@ -41,6 +43,6 @@ As for the interior of the home, we all live a little cluttered. Go through ever
 
 The act of “defunky-ing” your house is another cheap, easy way to make it look better. If you have anything out of the ordinary, from an extension cord strewn about to any kind of “rigging,”&nbsp;**you don’t want your home to look like it’s run-down or will require a lot of work**.
 
-Next, we suggest a deep clean of your home from top to bottom. **[&lt;&lt;&lt; &nbsp;HERE IS THE ULTIMATE CLEANING CHECKLIST . . link &nbsp;&gt;&gt;&gt;&gt; ](https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/){: target="_blank"}**&nbsp;that we give to our clients to guide them in their cleaning efforts. Buyers equate dirt and dirtiness with a home that’s in bad condition, and that’s not the kind of home they want to buy.
+Next, we suggest a deep clean of your home from top to bottom. **&lt;&lt;&lt; &nbsp;[HERE IS THE ULTIMATE CLEANING CHECKLIST . . link](https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/) &nbsp;&gt;&gt;&gt;&gt;** &nbsp;that we give to our clients to guide them in their cleaning efforts. Buyers equate dirt and dirtiness with a home that’s in bad condition, and that’s not the kind of home they want to buy.
 
 We offer free in-home consultations and would be glad to discuss what you can do to get your home in the best possible shape before you sell. If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
