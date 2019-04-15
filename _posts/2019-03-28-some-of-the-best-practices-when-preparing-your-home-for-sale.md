@@ -20,7 +20,7 @@ youtube_code: lx-bZtKtjMY
 
 {% include youtube.html %}
 
-#### *Preparing a home for sale doesn’t have to include expensive repairs or improvements. Here are our best budget-friendly tips.*
+##### *Preparing a home for sale doesn’t have to include expensive repairs or improvements. Here are our best budget-friendly tips.*
 
 <center><h5 id="having-a-home-that-shines-will-help-you-make-thousands-more-when-selling-your-home"><strong><em>&ldquo;Having a home that shines, will help you make thousands more when selling your home.&rdquo;</em></strong></h5><p><strong>&lt;&lt; Click here and get the <a target="_blank" href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/">ULTIMATE LOW BUDGET HOME PREP CHECKLIST</a> &gt;&gt;</strong></p></center>
 
