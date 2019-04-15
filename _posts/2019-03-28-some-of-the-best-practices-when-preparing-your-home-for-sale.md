@@ -22,15 +22,7 @@ youtube_code: lx-bZtKtjMY
 
 #### *Preparing a home for sale doesn’t have to include expensive repairs or improvements. Here are our best budget-friendly tips.*
 
-<center>&nbsp;</center>
-
-##### ***“\*\*Having a home that shines, will help you make \*\*thousands more\*\* when \*\*selling your home\*\*.\*\*”***
-
-##### &nbsp;
-
-##### **&lt;&lt; Click here and get the [ULTIMATE LOW BUDGET HOME PREP CHECKLIST](https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/){: target="_blank"} &gt;&gt;**
-
-<center>&nbsp;</center>
+<center><h5 id="having-a-home-that-shines-will-help-you-make-thousands-more-when-selling-your-home"><strong><em>&ldquo;Having a home that shines, will help you make thousands more when selling your home.&rdquo;</em></strong></h5><p><strong>&lt;&lt; Click here and get the <a target="_blank" href="https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/">ULTIMATE LOW BUDGET HOME PREP CHECKLIST</a> &gt;&gt;</strong></p></center>
 
 Today we’re going to give you some tips on how to get a home ready for showings on a budget. Sheri specializes in remodeling properties and is very creative about what she can do for little money. Here are a few things that she recommends.
 
