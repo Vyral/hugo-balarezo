@@ -24,7 +24,9 @@ youtube_code: rkRKgSVnJpM
 
 <center><em>In today&rsquo;s message, I&rsquo;d like to talk about how changing markets can have varying effects on both buyers and sellers.</em></center>
 
-&nbsp;
+<center>&nbsp;</center>
+
+##### [Test link here\! ⬇⬇⬇](https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/){: target="_blank"}
 
 The last time the market peaked in 2005 and 2006, we started to notice an influx of headlines that talked about the market potentially collapsing. In the beginning, we brushed them off, but then the articles kept coming.&nbsp;
 
