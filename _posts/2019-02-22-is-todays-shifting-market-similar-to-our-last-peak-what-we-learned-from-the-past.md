@@ -26,7 +26,7 @@ youtube_code: rkRKgSVnJpM
 
 <center>&nbsp;</center>
 
-##### [Test link here\! ⬇⬇⬇](https://bruiser1207.wufoo.com/forms/k1hraxx402vcc63/){: target="_blank"}
+##### [Test link here\! ⬇⬇⬇](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}
 
 The last time the market peaked in 2005 and 2006, we started to notice an influx of headlines that talked about the market potentially collapsing. In the beginning, we brushed them off, but then the articles kept coming.&nbsp;
 
