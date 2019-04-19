@@ -22,13 +22,13 @@ youtube_code: rkRKgSVnJpM
 
 {% include youtube.html %}
 
-##### *&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Was 2018 the Market Peak?? Where do we go now??*
+##### *&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Was 2018 the Market Peak?? Where do we go now??*
 
-#### SEE WHAT MAY HAPPEN IN THE NEXT 5 YEARS . .
+##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**SEE WHAT MAY HAPPEN IN THE NEXT 5 YEARS . .**
 
-#### [&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}
+#### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}**
 
-##### Getting the RIGHT ANSWERS is CRITICAL if you are going to BUY OR SELL in the next 5 years.
+##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;****Getting the RIGHT ANSWERS is CRITICAL if you are going to BUY OR SELL in the next 5 years.**
 
 ##### &nbsp;
 
