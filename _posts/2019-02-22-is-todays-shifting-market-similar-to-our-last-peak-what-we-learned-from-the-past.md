@@ -26,7 +26,7 @@ youtube_code: rkRKgSVnJpM
 
 ##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SEE WHAT MAY HAPPEN IN THE NEXT 5 YEARS . .**
 
-##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;**
+##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}**
 
 ##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Getting the RIGHT ANSWERS is CRITICAL if you are going to&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BUY OR SELL in the next 5 years.**
 
