@@ -21,25 +21,27 @@ youtube_code: rkRKgSVnJpM
 ---
 
 {% include youtube.html %}
+{: .present-before-paste}
 
-##### *&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Was 2018 the Market Peak?? Where do we go now??*
-
-##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**SEE WHAT MAY HAPPEN IN THE NEXT 5 YEARS . .**
-
-> ##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}**
-
-##### **Getting the RIGHT ANSWERS is CRITICAL if you are going to BUY OR SELL in the next 5 years.**
+##### &nbsp;
 
 &nbsp;
+{: .present-before-paste}
 
 The last time the market peaked in 2005 and 2006, we started to notice an influx of headlines that talked about the market potentially collapsing. In the beginning, we brushed them off, but then the articles kept coming.&nbsp;
+{: .present-before-paste}
 
 Then we started noticing a slowdown: &nbsp;Homes were taking longer to sell, and sellers just looked the other way and kept doing things as if nothing had changed. **It was very clear that something was changing**.
+{: .present-before-paste}
 
 I think the reason that prices started dropping slowly is that buyers who are searching at the top of the market will pause when things start to take a dip, and more sellers start putting their homes on the market because they also realize that we've reached the peak.
+{: .present-before-paste}
 
 {% include pullquote.html %}
+{: .present-before-paste}
 
 The same thing is happening in today’s market. Prices are starting to shift because there is much more urgency for sellers to get their homes sold. When prices fall, the people who are really affected are 1. The move-up buyers who need a bigger home, and&nbsp; 2. Those who are getting ready to retire within the next few years. **If your home value drops significantly, you will likely be stuck for 10-12 years—the typical market cycle from top to top**.&nbsp;[**&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;**](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}
+{: .present-before-paste}
 
 **My advice, if you want the most for your home, is to be preemptive and do something sooner rather than later**. If you are not in a hurry and don’t have to sell, time will work against you as the prices start accelerating down. I'm sure you are wondering how to attack this market and how to plan ahead and make sure that you come out on top. Don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+{: .present-before-paste}
