@@ -26,11 +26,11 @@ youtube_code: rkRKgSVnJpM
 
 ##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**SEE WHAT MAY HAPPEN IN THE NEXT 5 YEARS . .**
 
-#### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}**
+> ##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[&lt;&lt;&lt; click here . . for your FREE CUSTOM FORECAST &gt;&gt;&gt;](https://bruiser1207.wufoo.com/forms/zlah2w91p6zbc4/){: target="_blank"}**
 
-##### **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;****Getting the RIGHT ANSWERS is CRITICAL if you are going to BUY OR SELL in the next 5 years.**
+##### **Getting the RIGHT ANSWERS is CRITICAL if you are going to BUY OR SELL in the next 5 years.**
 
-##### &nbsp;
+&nbsp;
 
 The last time the market peaked in 2005 and 2006, we started to notice an influx of headlines that talked about the market potentially collapsing. In the beginning, we brushed them off, but then the articles kept coming.&nbsp;
 
