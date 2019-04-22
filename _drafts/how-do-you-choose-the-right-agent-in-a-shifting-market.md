@@ -21,7 +21,7 @@ youtube_code: N30fSWYLNG4
 
 {% include youtube.html %}
 
-When it comes to hiring an agent in a shifting market, there’s only one type of production that matters.
+<center>When it comes to hiring an agent in a shifting market, there’s only one type of production that matters.</center>
 
 How do you hire the right agent in a shifting market?
 
