@@ -31,7 +31,7 @@ There are some common habits among sellers who struggle selling their homes in t
 
 Just the other day, I interviewed with a seller who was interviewing two other agents. We did a production analysis for this client, and it showed that the first agent had sold zero houses in the last five years. The second agent had sold a total of four homes over that time period, but none in the last year. My team and I, meanwhile, have closed 212 transactions in the last five years.
 
-This production analysis made them realize an important point all sellers should know: **In a shifting market, you should choose an agent who has the best track record of homes sales in your area over the past five to eight years**. That’s the only type of production that matters, and it comes from agents who use active marketing (actively pursuing buyers, prospecting, following up with leads, etc.) instead of passive marketing.
+This production analysis made them realize an important point all sellers should know: **In a shifting market, you should choose an agent who has the best track record of home sales in your area over the past five to eight years**. That’s the only type of production that matters, and it comes from agents who use active marketing (actively pursuing buyers, prospecting, following up with leads, etc.) instead of passive marketing.
 
 {% include pullquote.html %}
 
