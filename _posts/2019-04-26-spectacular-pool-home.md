@@ -17,11 +17,11 @@ youtube_code: 45BVXAZl5cQ
 
 {% include youtube.html %}
 
-##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Spectacular POOL home
+#####                                            Spectacular POOL home
 
-###### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3100 sf, 5 bd, 4 bath, downstairs bd, custom pool area
+######                             3100 sf, 5 bd, 4 bath, downstairs bd, custom pool area
 
-&nbsp;
+ 
 
 Beautiful Morningstar ranch home\! Five bedrooms, four baths (one bedroom downstairs) located on a good size corner lot. This wonderful home features a big covered front porch, just perfect for a morning cup of coffee as the neighborhood wakes up.
 
