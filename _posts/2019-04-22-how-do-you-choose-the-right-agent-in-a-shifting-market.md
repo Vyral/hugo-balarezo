@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   When it comes to hiring an agent in a shifting market, there’s only one type
   of production that matters.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Hugo+Balarezo/Videos/Hugo+%26+Sheri-+Homes+and+Lifestyles+-+How+Do+You+Choose+the+Right+Agent+in+a+Shifting+Market_.mp4
 pullquote: >-
   When you’re in the process of hiring an agent to sell your home, do your
   homework.
@@ -23,7 +24,7 @@ youtube_code: N30fSWYLNG4
 
 <center><em>When it comes to hiring an agent in a shifting market, there&rsquo;s only one type of production that matters.</em></center>
 
-&nbsp;
+ 
 
 How do you hire the right agent in a shifting market?
 
