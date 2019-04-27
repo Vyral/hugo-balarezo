@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Spectacular POOL home
+title: 'Spectacular POOL home. . 3100 Sf, 5 bd 4 bath, with downstairs bedroom !!'
 tags:
   - Real Estate
-  - home buying
-  - homes
-excerpt:
+excerpt: >-
+  This wonderful home features big covered front porch, soaring ceilings and
+  windows with natural light poring in. The family room really has room for all
+  and it is open to the kitchen with a center island, breakfast bar and tons of
+  cabinet space.  And then there is the exquisite back yard. Thousands spent on
+  hardscape and a beautiful free form pool and spa.
 enclosure: 'https://youtu.be/45BVXAZl5cQ'
 pullquote:
 enclosure_type: video/mp4
@@ -17,11 +20,11 @@ youtube_code: 45BVXAZl5cQ
 
 {% include youtube.html %}
 
-## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Spectacular POOL home**
+##                                 **Spectacular POOL home**
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**3100 sf, 5 bd, 4 bath, downstairs bd, custom pool area**
+####                          **3100 sf, 5 bd, 4 bath, downstairs bd, custom pool area**
 
-&nbsp;
+ 
 
 Beautiful Morningstar ranch home\! Five bedrooms, four baths (one bedroom downstairs) located on a good size corner lot. This wonderful home features a big covered front porch, just perfect for a morning cup of coffee as the neighborhood wakes up.
 
