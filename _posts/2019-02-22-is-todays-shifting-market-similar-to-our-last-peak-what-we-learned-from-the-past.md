@@ -32,8 +32,6 @@ youtube_code: rkRKgSVnJpM
 
 ##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
-&nbsp;
-
 The last time the market peaked in 2005 and 2006, we started to notice an influx of headlines that talked about the market potentially collapsing. In the beginning, we brushed them off, but then the articles kept coming.&nbsp;
 
 Then we started noticing a slowdown: &nbsp;Homes were taking longer to sell, and sellers just looked the other way and kept doing things as if nothing had changed. **It was very clear that something was changing**.
