@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spectacular POOL home. . 3100 Sf, 5 bd 4 bath, with downstairs bedroom !!'
+title: Spectacular POOL home
 tags:
   - Real Estate
 excerpt: >-
@@ -9,13 +9,13 @@ excerpt: >-
   and it is open to the kitchen with a center island, breakfast bar and tons of
   cabinet space.  And then there is the exquisite back yard. Thousands spent on
   hardscape and a beautiful free form pool and spa.
-enclosure: 'https://youtu.be/45BVXAZl5cQ'
+enclosure: 'https://youtu.be/1fOh7viHufU'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/front-house-poinsetta.jpg
-youtube_code: 45BVXAZl5cQ
+youtube_code: 1fOh7viHufU
 ---
 
 {% include youtube.html %}
