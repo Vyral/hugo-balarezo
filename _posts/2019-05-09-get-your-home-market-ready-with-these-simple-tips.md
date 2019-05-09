@@ -20,7 +20,9 @@ youtube_code: lBUOBkm_lAY
 
 {% include youtube.html %}
 
-<center>If you’ve got some funds to spare when preparing your home for sale, we recommend you invest them into the three improvements mentioned in this message.</center>
+<center><em>If you&rsquo;ve got some funds to spare when preparing your home for sale, we recommend you invest them into the three improvements mentioned in this message.</em></center>
+
+&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
