@@ -7,8 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   If you’ve got some funds to spare when preparing your home for sale, we
-  recommend you invest them into the three improvements mentioned in this
-  message.
+  recommend you invest them into these three improvements.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
