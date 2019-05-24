@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-9-prepare-home-for-sale-np.jpg
-youtube_code: 7A10gfJVb6A
+youtube_code: T-prtSOepKw
 ---
 
 {% include youtube.html %}
