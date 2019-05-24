@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-9-prepare-home-for-sale-np.jpg
-youtube_code: ys2gdZe2f1s
+youtube_code: 7A10gfJVb6A
 ---
 
 {% include youtube.html %}
@@ -33,6 +33,6 @@ youtube_code: ys2gdZe2f1s
 
 4:34 - Tip No. 3: Update your flooring
 
-5:52 - A few additional suggestions for improving your home—Click here for extra tips\!
+5:52 - A few additional suggestions for improving your home
 
 If you have any other questions, would like more information, or would like our advice for improving your specific property before you list, feel free to give us a call or send us an email. We look forward to hearing from you soon.
