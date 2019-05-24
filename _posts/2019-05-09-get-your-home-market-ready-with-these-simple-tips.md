@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’ve got some funds to spare when preparing your home for sale, we
   recommend you invest them into these three improvements.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Hugo+Balarezo/Videos/Hugo+%26+Sheri-+Homes+and+Lifestyles+-+Get+Your+Home+Market-Ready+With+These+Simple+Tips.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
