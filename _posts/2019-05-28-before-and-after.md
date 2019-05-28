@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:
 date: 2019-05-28 17:05:00
 tags:
