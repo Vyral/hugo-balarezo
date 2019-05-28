@@ -18,3 +18,9 @@ youtube_code:
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/before-after-kitchen-2.jpg){: width="584" height="307"}
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/before-after-room.jpg){: width="598" height="291"}
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/before-after-bath.jpg){: width="542" height="342"}
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/before-after-lr.jpg){: width="600" height="275"}
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/before-after-front.jpg){: width="604" height="269"}
