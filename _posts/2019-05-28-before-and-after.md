@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:
 date: 2019-05-28 17:05:00
 tags:
@@ -15,4 +15,4 @@ youtube_code:
 
 ## &nbsp; &nbsp; BEFORE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;AFTER
 
-![](/uploads/before-after-small-kitchen.jpg){: width="792" height="424"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/before-after-kitchen-2.jpg){: width="584" height="307"}
