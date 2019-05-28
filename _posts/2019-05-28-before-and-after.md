@@ -23,4 +23,4 @@ youtube_code:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/before-after-lr.jpg){: width="600" height="275"}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/before-after-front.jpg){: width="604" height="269"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
