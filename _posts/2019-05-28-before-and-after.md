@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-date:
+date: 2019-05-28 17:05:50
 tags:
 excerpt:
 enclosure:
