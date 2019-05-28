@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Before and After
 date: 2019-05-28 17:05:00
 tags:
 excerpt:
