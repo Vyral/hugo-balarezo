@@ -29,7 +29,7 @@ We’ve all heard of instant offer companies, like Opendoor, who advertise quick
 
 I decided to go through the home sale process with Opendoor myself, and **the answer is no**.
 
-When I went to Opendoor’s website, I submitted the required questionnaire asking for the details about the home I was selling, and a day later, I got an offer for $396,000. After that, I looked at the comparable sales they used to come up with their offer. Curiously enough, all five that they listed were over $420,000.
+When I went to Opendoor’s website, I submitted the required questionnaire asking for the details about the home I was selling, and a day later I received an offer for $396,900. After that, I looked at the comparable sales they used to come up with their offer. Curiously enough, all five that they listed were over $420,000.
 
 I then scheduled an appointment to speak with one of their home advisors, but the conversation went nowhere. They wouldn’t explain why the comparable sales they used were so much higher than their offer, and their tone was very much “take it or leave it.” This puzzled me even further because Opendoor talks all the time about the “competitiveness” of their offers.
 
