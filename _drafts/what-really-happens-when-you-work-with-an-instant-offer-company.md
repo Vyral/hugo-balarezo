@@ -21,7 +21,7 @@ youtube_code: IfkLmTWh7e0
 
 {% include youtube.html %}
 
-If you’re thinking of selling your home to an instant offer company like Opendoor, there are a few things you should know first.
+<center>If you’re thinking of selling your home to an instant offer company like Opendoor, there are a few things you should know first.</center>
 
 We’ve all heard of instant offer companies, like Opendoor, who advertise quick, convenient, competitive cash offers to home sellers, but are their offers really what they claim?
 
