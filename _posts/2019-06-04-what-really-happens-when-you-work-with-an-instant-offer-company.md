@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re thinking of selling your home to an instant offer company like
   Opendoor, there are a few things you should know first.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/Hugo+%26+Sheri-+Homes+and+Lifestyles+-+What+Really+Happens+When+You+Work+With+an+Instant+Offer+Company.mp4
 pullquote: >-
   If you’re thinking of selling to a cash investor or a company like Opendoor,
   call me first.
