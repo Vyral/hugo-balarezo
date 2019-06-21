@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/getmedia-1.jpg
 youtube_code:
 ---
 
-# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**![](/uploads/getmedia-1s.jpg){: width="512" height="341"}
+# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**![](/uploads/getmedia-1.jpg){: width="1024" height="682"}
 
 # **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An Impressive Home&nbsp;**
 
