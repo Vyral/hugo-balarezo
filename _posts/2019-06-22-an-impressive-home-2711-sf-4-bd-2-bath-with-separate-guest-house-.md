@@ -38,4 +38,4 @@ The nearly 1000 sf apartment / guest area, has exterior access, complete with ki
 
 This home has been meticulously cared for and shows the ultimate pride of ownership. What are you waiting for? We invite you to come see all this home has to offer.
 
-##### If you want to view more properties available in Jurupa Valley, please [CLICK HERE\!](https://www.liveloveie.com/homes-jurupa-valley/){: target="_blank"}
+### If you want to view more properties available in Jurupa Valley, please **[CLICK HERE\!](https://www.liveloveie.com/homes-jurupa-valley/){: target="_blank"}**
