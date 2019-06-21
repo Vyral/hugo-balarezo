@@ -18,20 +18,22 @@ youtube_alternate_image: /uploads/getmedia-1.jpg
 youtube_code:
 ---
 
-# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;An Impressive Home&nbsp;**
+# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**![](/uploads/getmedia-1s.jpg){: width="512" height="341"}
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**2711 sf, 4 bd, 2 bath, with separate guest house.&nbsp;**
+# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An Impressive Home&nbsp;**
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**2711 sf, 4 bd, 2 bath, with separate guest house.&nbsp;**
 
 Are you looking for the perfect single story home with a second unit, complete with kitchen, bedroom, bath and living area? Always dreamed of space for horses, toys or just your own backyard park? Will a half acre work? How about an absolutely beautiful, fully remodeled home with 5 bedrooms and 3 baths?
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/getmedia-11small.jpg){: width="512" height="341"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/getmedia-11small.jpg){: width="512" height="341"}
 
 This just might be your dream home\! Main house has over 1/2 acre, absolutely beautiful, fully remodeled. Come take a look at all the updates which include tile and wood laminate flooring, new baseboards, kitchen cabinets and back splash, recessed lighting, new plumbing fixtures, new appliances just to name a few.
 
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/main-collage-s-1.jpg){: width="608" height="318"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/main-collage-s-1.jpg){: width="608" height="318"}
 
 The nearly 1000 sf apartment / guest area, has exterior access, complete with kitchen, bedroom, bath and living area. Great for extended family or rent.&nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/gh-collage-s-1.jpg){: width="608" height="318"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/gh-collage-s-1.jpg){: width="608" height="318"}
 
 This home has been meticulously cared for and shows the ultimate pride of ownership. What are you waiting for? We invite you to come see all this home has to offer.
