@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '11113 58th St Jurupa Valley, CA 91752'
+title: 'An Impressive Home,  2711 sf, 4 bd, 2 bath, with separate guest house.'
 date: 2019-06-22 00:00:00
 tags:
   - Real Estate
@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;An Incredible Home&nbsp;**
+# **&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An Impressive Home&nbsp;**
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**2711 sf, 4 bd, 2 bath, with separate guest house.&nbsp;**
 
