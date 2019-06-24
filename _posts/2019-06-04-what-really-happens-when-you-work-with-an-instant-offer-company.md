@@ -22,7 +22,7 @@ youtube_code: IfkLmTWh7e0
 
 {% include youtube.html %}
 
-<center><em>If you&rsquo;re thinking of selling your home to an instant offer company like Opendoor, there are a few things you should know first.</em><br /><br /><strong><a target="_blank" href="https://homes-lifestyles.com/how-i-sold-a-home-for-43000-more-than-what-opendoor-couldve.html">Find Part 2 Here!</a></strong></center>
+<center><em>If you&rsquo;re thinking of selling your home to an instant offer company like Opendoor, there are a few things you should know first.</em><br /><br /><strong><a target="_blank" href="https://homes-lifestyles.com/how-i-sold-a-home-for-43000-more-than-what-opendoor-couldve.html"><h3>Find Part 2 Here!</h3></a></strong></center>
 
 &nbsp;
 
