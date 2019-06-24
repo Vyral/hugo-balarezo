@@ -21,7 +21,9 @@ youtube_code: pS_WfEwaJck
 
 {% include youtube.html %}
 
-<center>I sold a client’s home on the open market for $43,000 more than what they would’ve gotten selling to Opendoor.</center>
+<center><em>I sold a client&rsquo;s home on the open market for $43,000 more than what they would&rsquo;ve gotten selling to Opendoor.</em></center>
+
+&nbsp;
 
 Today is the second part of my two-part series about instant offer companies. During [part one](https://homes-lifestyles.com/what-really-happens-when-you-work-with-an-instant-offer-company.html){: target="_blank"}, I shared a story about how I tried selling a client’s home to Opendoor for cash but decided to put it on the open market instead. When I did, we sold it for $43,000 more that we would have made selling to Opendoor.
 
