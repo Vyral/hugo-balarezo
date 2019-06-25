@@ -6,13 +6,13 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  If you’re thinking of selling to a cash investor or a company like Opendoor,
-  call me first.
+  If you’re thinking of selling your home to an instant offer company like
+  Opendoor, there are a few things you should know first.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/Hugo+%26+Sheri-+Homes+and+Lifestyles+-+What+Really+Happens+When+You+Work+With+an+Instant+Offer+Company.mp4
 pullquote: >-
-  If you’re thinking of selling your home to an instant offer company like
-  Opendoor, there are a few things you should know first.
+  If you’re thinking of selling to a cash investor or a company like Opendoor,
+  call me first.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -22,7 +22,7 @@ youtube_code: IfkLmTWh7e0
 
 {% include youtube.html %}
 
-<center><em>If you&rsquo;re thinking of selling to a cash investor or a company like Opendoor, call me first.</em><br /><br /><strong></strong><h3><strong><a target="_blank" href="https://homes-lifestyles.com/how-i-sold-a-home-for-43000-more-than-what-opendoor-couldve.html">Find Part 2 Here!</a></strong></h3></center>
+<center><em>If you&rsquo;re thinking of selling your home to an instant offer company like Opendoor, there are a few things you should know first.</em><br /><br /><strong></strong><h3><strong><a target="_blank" href="https://homes-lifestyles.com/how-i-sold-a-home-for-43000-more-than-what-opendoor-couldve.html">Find Part 2 Here!</a></strong></h3></center>
 
 &nbsp;
 
