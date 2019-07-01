@@ -25,7 +25,7 @@ youtube_code: pS_WfEwaJck
 
 &nbsp;
 
-Today is part two of my series about instant offer companies. During **[part one](https://homes-lifestyles.com/what-really-happens-when-you-work-with-an-instant-offer-company.html){: target="_blank"}**, I shared a story about how I tried my home to Opendoor for cash but decided to put it on the open market instead. When I did, we sold it for $43,000 more than we would have made selling to Opendoor.
+Today is part two of my series about instant offer companies. During <u><strong><a target="_blank" href="https://homes-lifestyles.com/what-really-happens-when-you-work-with-an-instant-offer-company.html">part one</a></strong></u>, I shared a story about how I tried my home to Opendoor for cash but decided to put it on the open market instead. When I did, we sold it for $43,000 more than we would have made selling to Opendoor.
 
 Long story short, **we listed it at $434,000 and sold it for $432,000**. The closing took about three weeks and the home was vacant the whole time, so our holding costs were minimal. Cash offer companies like Opendoor want you to think that listing on the open market is harder, but that’s not always the case. At 1:35 in the video above, I’ve provided a thumbnail gallery of the home in question.
 
