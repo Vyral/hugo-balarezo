@@ -11,8 +11,8 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/How+I+Sold+My+Home+for+%2443%2C000+More+Than+What+a+Corporate+Cash+Buyer+Couldve.mp4
 pullquote: >-
-  I sold a client’s home on the open market for $43,000 more than what they
-  would’ve gotten selling to Opendoor.
+  I sold my home on the open market for $43,000 more than what they would’ve
+  gotten selling to Opendoor.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
