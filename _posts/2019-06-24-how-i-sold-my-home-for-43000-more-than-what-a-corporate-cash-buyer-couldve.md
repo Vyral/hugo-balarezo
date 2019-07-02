@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   You may end up walking away with a lot more money than you thought just by
   selling on the open market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/How+I+Sold+My+Home+for+%2443%2C000+More+Than+What+a+Corporate+Cash+Buyer+Couldve.mp4
 pullquote: >-
   I sold a client’s home on the open market for $43,000 more than what they
   would’ve gotten selling to Opendoor.
