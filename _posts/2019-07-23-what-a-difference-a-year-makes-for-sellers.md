@@ -12,7 +12,7 @@ pullquote: >-
   both a sales and price perspective.”
 enclosure_type: image/jpg.
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/year makes.jpg
 youtube_code:
 ---
