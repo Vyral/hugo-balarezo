@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What a Difference a Year Makes for Sellers
-date: 2019-07-23 11:12:00
+date: 2019-07-22 00:00:00
 tags:
 excerpt: >-
   Over the last few years, many sellers have been hesitant to put their houses
