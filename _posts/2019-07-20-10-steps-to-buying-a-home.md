@@ -15,9 +15,7 @@ youtube_alternate_image: /uploads/20190329-10-Steps-MEM-1024x791.jpg
 youtube_code:
 ---
 
-![](/uploads/20190329-10-steps-mem-1024x791.jpg){: width="1024" height="791"}
-
-From all the steps needed to buy a house, **step \#3 and \#4 are the MOST IMPORTANT. &nbsp;**
+![](/uploads/20190329-10-steps-mem-1024x791-1.jpg){: width="768" height="594"}From all the steps needed to buy a house, **step \#3 and \#4 are the MOST IMPORTANT. &nbsp;**
 
 So lets start with \#3, **Finding an agent.&nbsp;**
 
