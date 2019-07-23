@@ -19,7 +19,7 @@ youtube_code:
 
 ![](/uploads/year-makes-1.jpg){: width="675" height="369"}
 
-### What a Difference a Year Makes for Sellers
+## What a Difference a Year Makes for Sellers
 
 Over the last few years, many sellers have been hesitant to put their houses on the market because they feared not being able to find another home to buy.
 
