@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/year makes.jpg
 youtube_code:
 ---
 
-![](/uploads/year-makes.jpg){: width="750" height="410"}
+![](/uploads/year-makes-1.jpg){: width="675" height="369"}
 
 ### What a Difference a Year Makes for Sellers
 
