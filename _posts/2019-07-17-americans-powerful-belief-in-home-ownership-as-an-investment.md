@@ -13,9 +13,7 @@ youtube_alternate_image: /uploads/powerful belief.jpg
 youtube_code:
 ---
 
-### &nbsp;
-
-### ![](/uploads/powerful-belief.jpg){: width="750" height="410"}
+### ![](/uploads/powerful-belief-1.jpg){: width="675" height="369"}
 
 ### Americans’ Powerful Belief in Home-ownership as an Investment
 
