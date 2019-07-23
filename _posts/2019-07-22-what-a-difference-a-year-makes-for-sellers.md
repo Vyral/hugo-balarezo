@@ -19,8 +19,6 @@ youtube_code:
 
 ![](/uploads/year-makes-1.jpg){: width="675" height="369"}
 
-## What a Difference a Year Makes for Sellers
-
 Over the last few years, many sellers have been hesitant to put their houses on the market because they feared not being able to find another home to buy.
 
 We’ve&nbsp;[reported](https://www.simplifyingthemarket.com/2018/07/23/lack-of-listings-slowing-down-the-market/?a=493612-8c0dbc3d035ab276a3307c7af975cf8a){: target="_blank"}&nbsp;on inventory shortages in the past, and it’s been a constant concern for potential buyers throughout recent years. New research shows the inventory concern is starting to decrease among potential buyers.
