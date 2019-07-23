@@ -21,8 +21,6 @@ youtube_code:
 
 ![](/uploads/4-tips.jpg){: width="675" height="369"}
 
-## 4 Tips to Sell Your Home Faster
-
 Since June of last year, we have seen an increase in the inventory of homes for sale month per month. Every spring and summer, the inventory increases because people want to sell their home. For those with children, they may want to be in their new home for the beginning of the school year.
 
 If you are one of those sellers, you may find these 4 tips helpful in getting your home sold more quickly.
