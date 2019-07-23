@@ -15,7 +15,7 @@ youtube_code:
 
 ### ![](/uploads/powerful-belief-1.jpg){: width="675" height="369"}
 
-## **Americans’ Powerful Belief in Home-ownership as an Investment**
+&nbsp;
 
 *The Federal Reserve Bank*&nbsp;(The Fed) recently released their&nbsp;[2019&nbsp; Survey of Consumer Expectations Housing Survey](https://www.newyorkfed.org/microeconomics/sce/housing#main){: target="_blank"}. The survey reported that 65% of Americans believe homeownership is a good financial investment. Since 2014, the percentage has increased by over nine percent.The Fed’s survey also showed that when the results are broken down by age, education, income, or region of the country, more than 55% of Americans in each category see homeownership as a good investment.
 
