@@ -1,14 +1,16 @@
 ---
 layout: post
-title:
-date:
+title: 2 Things You Need to Know to Properly Price Your Home
+date: 2019-08-03 00:00:00
 tags:
-excerpt:
+excerpt: >-
+  In today’s housing market, home prices are increasing at a slower pace (3.7%)
+  than they have over the last eight years (6-7%).
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
