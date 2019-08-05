@@ -19,7 +19,7 @@ youtube_code: Z1enFI_DiFo
 
 {% include youtube.html %}
 
-Wire fraud is a serious issue in today’s market, so today we’ll share a few tips that will help you stay safe.
+<center>Wire fraud is a serious issue in today’s market, so today we’ll share a few tips that will help you stay safe.</center>
 
 Modern technology has brought about a lot of positive change, but it has also introduced new dangers. Today, we’ll shed some light on one such threat: wire fraud.
 
