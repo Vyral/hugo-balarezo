@@ -25,7 +25,7 @@ youtube_code: Z1enFI_DiFo
 
 Modern technology has brought about a lot of positive change, but it has also introduced new dangers. Today, we’ll shed some light on one such threat: wire fraud.
 
-**Wire fraud is a common real estate scam wherein a scammer will pose as someone from a buyer’s title and escrow company in order to steal the funds they needed to close**. They achieve this by sending false wiring instructions via email, and once you’ve sent the funds to this hacker, there is no way to get them back. All too often, buyers will go ahead and send money along to scammers only to later receive a legitimate email from their title company.
+**Wire fraud is a common real estate scam wherein a scammer will pose as someone from a buyer’s title and escrow company to steal the funds they needed to close**. They achieve this by sending false wiring instructions via email, and once you’ve sent the funds to this hacker, there is no way to get them back. All too often, buyers will go ahead and send money along to scammers only to later receive a legitimate email from their title company.
 
 This is because the emails scammers send are typically very convincing. It’s designed to mimic the real email buyers should receive when it comes time to wire their money into an escrow account prior to closing. So how do you tell the difference?
 
