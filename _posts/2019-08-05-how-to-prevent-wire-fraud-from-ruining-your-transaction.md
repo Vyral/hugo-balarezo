@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Wire fraud is a serious issue in today’s market, so today we’ll share a few
   tips that will help you stay safe.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/How+to+Prevent+Wire+Fraud+From+Ruining+Your+Transaction.mp4
 pullquote: 'Once you’ve sent the funds to this hacker, there is no way to get them back.'
 enclosure_type: video/mp4
 enclosure_time:
