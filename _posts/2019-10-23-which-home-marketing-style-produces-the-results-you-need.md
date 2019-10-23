@@ -21,7 +21,9 @@ youtube_code: LMW60djAgTw
 
 {% include youtube.html %}
 
-<center>Why do 97% of Realtors sell fewer than five homes a year? Where are the other 3%? Find out today.</center>
+<center><em>Why do 97% of Realtors sell fewer than five homes a year? Where are the other 3%? Find out today.</em></center>
+
+&nbsp;
 
 Say that you invited 100 Realtors to your home to help you sell it.. As they’re all walking around, checking things out, and telling you about all they can do for your house, suppose you asked them to raise their hands if they’ve sold five or more homes in the last 12 months. Only three of them would\!
 
