@@ -25,7 +25,7 @@ youtube_code: LMW60djAgTw
 
 &nbsp;
 
-Say that you invited 100 Realtors to your home to help you sell it.. As they’re all walking around, checking things out, and telling you about all they can do for your house, suppose you asked them to raise their hands if they’ve sold five or more homes in the last 12 months. Only three of them would\!
+Say that you invited 100 Realtors to your home to help you sell it. As they’re all walking around, checking things out, and telling you about all they can do for your house, suppose you asked them to raise their hands if they’ve sold five or more homes in the last 12 months. Only three of them would\!
 
 The typical agent people hire is someone they know or were referred to. Those agents will put your listing in the MLS (Multiple Listing Service), put up a “for sale” sign in your yard, maybe hang some fliers, and possibly host a few open houses. Those things alone aren’t going to work. With many agents you’ll find, that’s the level of marketing you’d be stuck with.
 
