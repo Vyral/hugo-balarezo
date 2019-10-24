@@ -29,7 +29,7 @@ Say that you invited 100 Realtors to your home to help you sell it. As they’re
 
 The typical agent people hire is someone they know or were referred to. Those agents will put your listing in the MLS (Multiple Listing Service), put up a “for sale” sign in your yard, maybe hang some fliers, and possibly host a few open houses. Those things alone aren’t going to work. With many agents you’ll find, that’s the level of marketing you’d be stuck with.
 
-**A key difference between the three agents and the other 97 is their use of active marketing instead of passive marketing**. To explain the difference between active and passive marketer, pretend that your home is a loaf of bread. Passive marketers will take your loaf, go over to the aisle where bread is sold, make some room on a shelf, and pop it in there. Then they’ll sit back and wait for someone to tap them on the shoulder and say, “Hey, I’d be interested in buying that loaf\!”
+**A key difference between the three agents and the other 97 is their use of active marketing instead of passive marketing**. To explain the difference between active and passive marketing, pretend that your home is a loaf of bread. Passive marketers will take your loaf, go over to the aisle where bread is sold, make some room on a shelf, and pop it in there. Then they’ll sit back and wait for someone to tap them on the shoulder and say, “Hey, I’d be interested in buying that loaf\!”
 
 The problem is that there are 2,000 other loaves in the bread aisle, too\! What are the chances that someone is going to select your loaf among the many others?
 
