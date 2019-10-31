@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Why do 97% of Realtors sell fewer than five homes a year? Where are the other
   3%? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/Which+Home+Marketing+Style+Produces+the+Results+You+Need_.mp4
 pullquote: >-
   By introducing more people to it, active marketers can generate a lot more
   activity and interest, thus allowing them to get it sold much faster.
