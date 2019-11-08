@@ -4,6 +4,7 @@ title: How Agent Networks Work
 date: 2019-11-08 00:00:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
   Today I’m sharing how an agent network may be the best marketing tool you
   could use.
