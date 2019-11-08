@@ -20,7 +20,7 @@ youtube_code: oj-HHcrgXHU
 
 {% include youtube.html %}
 
-<center><em>Today I’m sharing how an agent network may be the best marketing tool you could use.</em></center>
+<center><em>Today I&rsquo;m sharing how an agent network may be the best marketing tool you could use.</em></center>
 
 <br>Today we’ll discuss why agent networks are one of the best active marketing tools to sell homes.
 
