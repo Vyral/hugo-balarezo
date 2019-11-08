@@ -20,9 +20,9 @@ youtube_code: oj-HHcrgXHU
 
 {% include youtube.html %}
 
-Today I’m sharing how an agent network may be the best marketing tool you could use.
+<center><em>Today I’m sharing how an agent network may be the best marketing tool you could use.</em></center>
 
-Today we’ll discuss why agent networks are one of the best active marketing tools to sell homes.
+<br>Today we’ll discuss why agent networks are one of the best active marketing tools to sell homes.
 
 Let me tell you a story. The first week of last December I was finishing up a home sale: full-price offer, 40% down, 21-day escrow, and **when I looked at the name of the agent on the contract, I smiled**. Three weeks later we closed, right before Christmas. I called the agent, Betty, and thanked her for the offer on my listing and asked how she ended up choosing that house. I wanted to know how she went about picking my listing.
 
