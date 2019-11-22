@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today I’m sharing how an agent network may be the best marketing tool you
   could use.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/How+Agent+Networks+Work.mp4
 pullquote: >-
   It’s not just a matter of sending information to agents—it’s about building
   relationships.
