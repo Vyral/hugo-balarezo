@@ -21,7 +21,7 @@ youtube_code: 72uMbt99H4w
 
 {% include youtube.html %}
 
-<center><em>Today I’m sharing a story that proves why you need to think through who you hire as your real estate agent.</em></center>
+<center><em>Today I&rsquo;m sharing a story that proves why you need to think through who you hire as your real estate agent.</em></center>
 
 <br>How can you choose the best agent to work with when buying or selling a home? I’ll be sharing a proven, duplicatable system to help you choose the best agent to work with every time. As you may know, **sellers like to choose agents because they’re family, a friend, maybe a friend of a friend, or someone they know**. They never choose an agent because they’re the best in the area.
 
