@@ -21,7 +21,9 @@ youtube_code: 72uMbt99H4w
 
 {% include youtube.html %}
 
-How can you choose the best agent to work with when buying or selling a home? I’ll be sharing a proven, duplicatable system to help you choose the best agent to work with every time. As you may know, **sellers like to choose agents because they’re family, a friend, maybe a friend of a friend, or someone they know**. They never choose an agent because they’re the best in the area.
+<center><em>Today I’m sharing a story that proves why you need to think through who you hire as your real estate agent.</em></center>
+
+<br>How can you choose the best agent to work with when buying or selling a home? I’ll be sharing a proven, duplicatable system to help you choose the best agent to work with every time. As you may know, **sellers like to choose agents because they’re family, a friend, maybe a friend of a friend, or someone they know**. They never choose an agent because they’re the best in the area.
 
 I recently spoke to a seller who had chosen an agent because they knew them. Through our conversation, I found out quite a bit about their recent real estate transaction and it raised some red flags. Either the agent had been vague about how many homes they had recently sold or outright lied because they had only sold five homes in the last five years\! The seller ended up having only 30 days to find a house, close, and move. The typical escrow period in their situation is 60 days. The agent wasn’t really looking out for their client.
 
