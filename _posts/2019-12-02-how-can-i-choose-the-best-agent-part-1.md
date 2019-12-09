@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today I’m sharing a story that proves why you need to think through who you
   hire as your real estate agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/How+Can+I+Choose+the+Best+Agent_+Part+1.mp4
 pullquote: >-
   I found out quite a bit about their recent real estate transaction and it
   raised some red flags.
