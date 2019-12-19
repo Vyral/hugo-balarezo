@@ -45,4 +45,4 @@ Using an MLS to compare agents is an important way to inform your decision-makin
 
 To give you a quick background, I’ve sold 4,900 homes, so I have a deep understanding.
 
-We’ll make sure that you’re matched with an agent who gets you results. Call me if you want to hear some of the top selling strategies for your area. You can also reach out to us at any time if you need help by visiting our website or connecting on Facebook.
+We’ll make sure that you’re matched with an agent who gets you results. Call me if you want to hear some of the top selling strategies for your area. You can also reach out to us at any time if you need help by <u><a target="_blank" href="https://www.liveloveie.com/">visiting our website</a></u> or <u><a target="_blank" href="https://www.facebook.com/hugoandsherihomesandlifestyles">connecting on Facebook</a></u>.
