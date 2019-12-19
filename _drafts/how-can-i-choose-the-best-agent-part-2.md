@@ -21,7 +21,9 @@ youtube_code: 1ww_j24gCPc
 
 {% include youtube.html %}
 
-I’ve been in the real estate business for 38 years and sold approximately 4,900 homes. I have a deep understanding of the local areas I work, but not every agent does.
+<center><em>Don’t settle for a subpar agent. Let’s discuss how to be smart when it comes to picking your representation.</em></center>
+
+<br>I’ve been in the real estate business for 38 years and sold approximately 4,900 homes. I have a deep understanding of the local areas I work, but not every agent does.
 
 Today you’ll see the nuts and bolts of the proven, replicable system we always use to find the right agent.
 
