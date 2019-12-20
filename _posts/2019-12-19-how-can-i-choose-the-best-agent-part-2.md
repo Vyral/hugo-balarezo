@@ -33,16 +33,14 @@ All of this happened because the seller chose the wrong agent for the wrong reas
 
 {% include pullquote.html %}
 
-First, I jump onto a multiple listing service (MLS). Here, I’ll look at that Moreno Valley home we discussed in my last video. On that listing, we can see the identification code of the agent handling the transaction and use it to figure their production.
+First, I jump onto the MLS. Here, I’ll look at that Moreno Valley home we discussed in my last video. On that listing, we can see the identification code of the agent handling the transaction and use it to figure their production.
 
-I then go to the “Map” tab on the MLS and generate a search by selecting a radius of 10 miles around the example property, checking “closed sales” as a criteria, and plugging in the agent’s code.
+I then go to the “Map” tab on the MLS and generate a search by selecting a radius of 10 miles around the example property, checking “closed sales” as a criterion, and plugging in the agent’s code.
 
 By doing so, I was able to see that that agent closed eight transactions in the last 10 years in the local market. Meanwhile, the other agent mentioned in our previous video had closed over 200 transactions in the same area during the same time frame—quite the difference, huh?
 
-Using an MLS to compare agents is an important way to inform your decision-making process. This kind of analysis is what we bring when we meet with you. If you’re trying to decide between a couple of agents, we’ll run comparisons full of tangible data that accurately speaks to each of their performance levels.
+Using the MLS to compare agents is an important way to inform your decision-making process. **This kind of analysis is what we bring when we meet with you**. If you’re trying to decide between a couple of agents, we’ll run comparisons full of tangible data that accurately speaks to each of their performance levels.
 
-**Remember, you’re never obligated to go with someone who isn’t the best for you.**
-
-To give you a quick background, I’ve sold 4,900 homes, so I have a deep understanding.
+Remember, you’re never obligated to go with someone who isn’t the best for you.
 
 We’ll make sure that you’re matched with an agent who gets you results. Call me if you want to hear some of the top selling strategies for your area. You can also reach out to us at any time if you need help by <u><a target="_blank" href="https://www.liveloveie.com/">visiting our website</a></u> or <u><a target="_blank" href="https://www.facebook.com/hugoandsherihomesandlifestyles">connecting on Facebook</a></u>.
