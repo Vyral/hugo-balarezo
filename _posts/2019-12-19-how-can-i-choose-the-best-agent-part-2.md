@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Don’t settle for a subpar agent. Let’s discuss how to be smart when it comes
   to picking your representation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Hugo+Balarezo/Videos/How+Can+I+Choose+the+Best+Agent_+Part+2.mp4
 pullquote: >-
   Remember, you’re never obligated to go with someone who isn’t the best for
   you.
